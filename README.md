@@ -5,6 +5,7 @@ This is repository that contains links of video recording related to leetcode pr
 ## LeetCode
 - **LC 394a.** [Decode String Problem Explanation - 10 minutes[45:00-55:57]](https://www.facebook.com/iCodeguru/videos/1050338199941513/)
 - **LC 394b.** [Decode String Solution with Explanation - 26 minutes[0:00-26:00]](https://www.facebook.com/iCodeguru/videos/951744666633494/)
+- **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
 - **LC 844.**  [Backspace String Compare - 26 minutes[24:05-50:00]](https://www.facebook.com/iCodeguru/videos/656666495972669/)
 - **LC 142.**  [Linked List Cycle II - 43 minutes[30:45-43:00]](https://www.facebook.com/iCodeguru/videos/8130158700392661)
 - **LC 206.**  [Reverse Linked List - 15 minutes[0:00-15:35]](https://www.facebook.com/iCodeguru/videos/682404519920780/)
