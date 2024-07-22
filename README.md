@@ -1,8 +1,10 @@
 # Volunteer Teaching Recordings for DSA & LeetCode Questions
 
-This is repository that contains links of video recording related to leetcode problems that were presented to underpriviliged students at ICodeGuru.
-
-## LeetCode
+This is repository that contains links of video recording related to leetcode problems and data structure and algorithms that were presented at ICodeGuru.
+THe objective is to shar learned knowledge to enhance the problem solving and algorithmic skills of underpriviliged students
+## DSA Lectures
+- ** Lecture 1**  [Intro to DSA and Array with its operations](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
+## LeetCode Lectures
 - **LC 394a.** [Decode String Problem Explanation - 10 minutes[45:00-55:57]](https://www.facebook.com/iCodeguru/videos/1050338199941513/)
 - **LC 394b.** [Decode String Solution with Explanation - 26 minutes[0:00-26:00]](https://www.facebook.com/iCodeguru/videos/951744666633494/)
 - **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
