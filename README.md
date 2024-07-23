@@ -5,6 +5,7 @@ This is repository that contains links of video recording related to leetcode pr
 The objective is to share learned knowledge to enhance the problem solving and algorithmic skills of underpriviliged students
 ## DSA Lectures
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
+- **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 
 ## DSA Contents
 - **Lecture 1a** [Intro to DSA and Array with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
