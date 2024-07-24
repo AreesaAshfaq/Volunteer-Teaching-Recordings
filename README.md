@@ -3,7 +3,7 @@
 This is repository that contains links of video recording related to leetcode problems and data structure & algorithms that were presented at ICodeGuru.
 
 The objective is to share learned knowledge to enhance the problem solving and algorithmic skills of underpriviliged students
-## DSA Lectures
+## DSA Video Lectures
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetcOde Problem: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
