@@ -10,7 +10,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
 
 
-## 2a. DSA Video Lectures
+## 2a. DSA Video Lectures (Starting Date: 22 July 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetcOde Problem: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
