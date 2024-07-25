@@ -1,14 +1,21 @@
-# Volunteer Teaching Recordings for DSA & LeetCode Questions
+# Volunteer Teaching Recordings 
 
-This is repository that contains links of video recording related to leetcode problems and data structure & algorithms that were presented at ICodeGuru.
+This is repository that contains links of video recording related to leetcode problems and DSA as well as Tips & Strategies to Tackle IELTS Exam that were presented at ICodeGuru.
 
-The objective is to share learned knowledge to enhance the problem solving and algorithmic skills of underpriviliged students
-## DSA Video Lectures
+The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students
+
+## 1.Tips & Strategies to tackle IELTS Exam 
+- **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
+- **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
+- **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
+
+
+## 2a. DSA Video Lectures
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetcOde Problem: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
 
-## DSA Contents
+## 2b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Array with its operations and Time & Space complexity](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
 - **Lecture 1b** [Array and Time & Space Complexity Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
 ## LeetCode Lectures
