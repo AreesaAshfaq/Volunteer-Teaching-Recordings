@@ -12,6 +12,7 @@ The objective is to share learned knowledge to enhance the problem solving and a
 - **Lecture 1a** [Intro to DSA, Array with its operations and Time & Space complexity](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
 - **Lecture 1b** [Array and Time & Space Complexity Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
 ## LeetCode Lectures
+- **LC 26.**   [Remove Duplicates from Sorted Array - 28 minutes [0:00-28:00]](https://www.facebook.com/iCodeguru/videos/8605904716089836)
 - **LC 394a.** [Decode String Problem Explanation - 10 minutes[45:00-55:57]](https://www.facebook.com/iCodeguru/videos/1050338199941513/)
 - **LC 394b.** [Decode String Solution with Explanation - 26 minutes[0:00-26:00]](https://www.facebook.com/iCodeguru/videos/951744666633494/)
 - **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
