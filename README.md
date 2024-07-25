@@ -4,7 +4,7 @@ This is repository that contains links of video recording related to leetcode pr
 
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students
 
-## 1.Tips & Strategies to tackle IELTS Exam 
+## 1.Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
 - **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
 - **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
 - **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
