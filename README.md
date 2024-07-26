@@ -15,6 +15,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetcOde Problem: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
 - **Lecture 4**  [LeetCode Problem: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://www.facebook.com/iCodeguru/videos/1960587047715870/)
+- **Lecture 5**  [LeetCode Problem: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://www.facebook.com/iCodeguru/videos/1039587780888401/)
 
 ## 2b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Array with its operations and Time & Space complexity](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
