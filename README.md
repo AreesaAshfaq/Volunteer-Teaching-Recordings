@@ -18,6 +18,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 6** [Intro to String with its operations and implementation](https://www.facebook.com/iCodeguru/videos/786334563377486/)
 - **Lecture 7** [1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately, 1528. Shuffle String](https://www.facebook.com/iCodeguru/videos/1003047384461168/)
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://www.facebook.com/iCodeguru/videos/1137420924034961/)
+- **Lecture 9** [LeetCode Problem: 706. Design HashMap, 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
 
 ## 2b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Array with its operation, Time & Space complexity, String with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
