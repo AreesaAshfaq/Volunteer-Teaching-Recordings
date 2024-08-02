@@ -9,7 +9,10 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
 - **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
 
-## 2a. DSA Video Lectures (Starting Date: 22 July 2024)
+## 2.Gen AI Training 
+ **Lecture 1**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
+ 
+## 3a. DSA Video Lectures (Starting Date: 22 July 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetcOde Problem: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
@@ -20,7 +23,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://www.facebook.com/iCodeguru/videos/1137420924034961/)
 - **Lecture 9** [LeetCode Problem: 706. Design HashMap, 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
 
-## 2b.DSA Contents
+## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Array with its operation, Time & Space complexity, String with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
 - **Lecture 1b** [Array, Time & Space Complexity and String Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
 ## LeetCode Lectures
