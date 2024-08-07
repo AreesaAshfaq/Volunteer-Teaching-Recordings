@@ -25,6 +25,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 10** [LeetCode Problem: 705. Design HashSet, 2283. Check if Number Has Equal Digit Count and Digit Value](https://www.facebook.com/iCodeguru/videos/457225170479825)
 - **Lecture 11** [LeetCode Problem: 2390. Removing Stars From a String](https://www.facebook.com/iCodeguru/videos/1864244974059602)
 - **Lecture 12** [LeetCode Problem: 2390. Removing Stars From a String, 682. Baseball Game](https://www.facebook.com/iCodeguru/videos/476962791928073/)
+- **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Array with its operation, Time & Space complexity, String with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
