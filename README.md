@@ -19,13 +19,15 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 4**  [LeetCode Problem: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://www.facebook.com/iCodeguru/videos/1960587047715870/)
 - **Lecture 5**  [LeetCode Problem: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://www.facebook.com/iCodeguru/videos/1039587780888401/)
 - **Lecture 6** [Intro to String with its operations and implementation](https://www.facebook.com/iCodeguru/videos/786334563377486/)
-- **Lecture 7** [1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately, 1528. Shuffle String](https://www.facebook.com/iCodeguru/videos/1003047384461168/)
+- **Lecture 7** [1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately & 1528. Shuffle String](https://www.facebook.com/iCodeguru/videos/1003047384461168/)
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://www.facebook.com/iCodeguru/videos/1137420924034961/)
-- **Lecture 9** [LeetCode Problem: 706. Design HashMap, 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
-- **Lecture 10** [LeetCode Problem: 705. Design HashSet, 2283. Check if Number Has Equal Digit Count and Digit Value](https://www.facebook.com/iCodeguru/videos/457225170479825)
+- **Lecture 9** [LeetCode Problem: 706. Design HashMap & 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
+- **Lecture 10** [LeetCode Problem: 705. Design HashSet & 2283. Check if Number Has Equal Digit Count and Digit Value](https://www.facebook.com/iCodeguru/videos/457225170479825)
 - **Lecture 11** [LeetCode Problem: 2390. Removing Stars From a String](https://www.facebook.com/iCodeguru/videos/1864244974059602)
-- **Lecture 12** [LeetCode Problem: 2390. Removing Stars From a String, 682. Baseball Game](https://www.facebook.com/iCodeguru/videos/476962791928073/)
+- **Lecture 12** [LeetCode Problem: 2390. Removing Stars From a String & 682. Baseball Game](https://www.facebook.com/iCodeguru/videos/476962791928073/)
 - **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
+- **Lecture 14** [Leetcode Problem: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
+](https://www.facebook.com/iCodeguru/videos/1849407915583410/)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack & Queue with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
