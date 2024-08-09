@@ -28,6 +28,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
 - **Lecture 14** [Leetcode Problem: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://www.facebook.com/iCodeguru/videos/1849407915583410/)
+- **Lecture 15** [Leetcode Problem: 232. Implement Queue using Stacks, 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack & Queue with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
