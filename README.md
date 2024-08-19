@@ -35,7 +35,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 18** [Leetcode Problems: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
 - **Lecture 19** [Leetcode Problems: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
 - **Lecture 20** [Leetcode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://www.facebook.com/iCodeguru/videos/494738736498761)
-- **Lecture 21** [Intro to Linked List with its Types, LinkSingly Linked lIst Operations  and How to Create Linked List.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
+- **Lecture 21** [Intro to Linked List with its Types, Singly Linked List Operations  and How to Create Linked List.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack & Queue with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
