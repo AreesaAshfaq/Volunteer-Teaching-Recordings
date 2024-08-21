@@ -1,8 +1,9 @@
 # Volunteer Teaching Recordings 
 
-This is repository that contains links of video recording related to leetcode problems and DSA as well as Tips & Strategies to Tackle IELTS Exam that were presented at ICodeGuru.
+This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA as well as Tips & Strategies to Tackle IELTS Exam that were presented at ICodeGuru.
 
-The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students
+The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
+
 
 ## 1. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
 - **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
