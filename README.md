@@ -39,8 +39,8 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 22** [Singly Linked List Operatinos Implementation, Doubly Linked List Operations and How to Create Doubly Linked List](https://www.facebook.com/iCodeguru/videos/1690994685035453/)
 
 ## 3b.DSA Contents
-- **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack & Queue with its operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
-- **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack & Queue Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
+- **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
+- **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack, Queue & Linked List Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
 ## LeetCode Lectures
 - **LC 26.**   [Remove Duplicates from Sorted Array - 28 minutes [0:00-28:00]](https://www.facebook.com/iCodeguru/videos/8605904716089836)
 - **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
