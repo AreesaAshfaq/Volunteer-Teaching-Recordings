@@ -11,6 +11,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 
 ## 2. Gen AI Training 
  - **Lecture 1**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
+ - **Lecture 2** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
  
 ## 3a. DSA Video Lectures (Starting Date: 22 July 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
