@@ -30,17 +30,17 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
 - **Lecture 14** [Leetcode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://www.facebook.com/iCodeguru/videos/1849407915583410/)
-- **Lecture 15** [Leetcode Problems: 232. Implement Queue using Stacks, 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
+- **Lecture 15** [Leetcode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
 - **Lecture 16** [Two Pointers Explanation with Its Types & Leetcode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1668266013941042/)
-- **Lecture 17** [Leetcode Problems: 167. Two Sum II - Input Array Is Sorted
+- **Lecture 17** [Leetcode Problem: 167. Two Sum II - Input Array Is Sorted
  & 125. Valid Palindrome](https://www.facebook.com/iCodeguru/videos/1036279937759427/)
-- **Lecture 18** [Leetcode Problems: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
-- **Lecture 19** [Leetcode Problems: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
+- **Lecture 18** [Leetcode Problem: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
+- **Lecture 19** [Leetcode Problem: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
 - **Lecture 20** [Leetcode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://www.facebook.com/iCodeguru/videos/494738736498761)
 - **Lecture 21** [Intro to Linked List with its Types, Singly Linked List Operations  and How to Create Singly Linked List.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
 - **Lecture 22** [Singly Linked List Operatinos Implementation, Doubly Linked List Operations and How to Create Doubly Linked List](https://www.facebook.com/iCodeguru/videos/1690994685035453/)
 - **Lecture 23** [Leetcode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://www.facebook.com/iCodeguru/videos/506015318842145)
-- **Lecture 24** [Leetcode Problems: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
+- **Lecture 24** [Leetcode Problem: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
