@@ -17,7 +17,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 ## 3a. DSA Video Lectures (Starting Date: 22 July 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
-- **Lecture 3**  [LeetcOde Problems: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
+- **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
 - **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://www.facebook.com/iCodeguru/videos/1960587047715870/)
 - **Lecture 5**  [LeetCode Problems: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://www.facebook.com/iCodeguru/videos/1039587780888401/)
 - **Lecture 6** [Intro to String with its operations and implementation](https://www.facebook.com/iCodeguru/videos/786334563377486/)
@@ -28,19 +28,20 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 11** [LeetCode Problem: 2390. Removing Stars From a String](https://www.facebook.com/iCodeguru/videos/1864244974059602)
 - **Lecture 12** [LeetCode Problems: 2390. Removing Stars From a String & 682. Baseball Game](https://www.facebook.com/iCodeguru/videos/476962791928073/)
 - **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
-- **Lecture 14** [Leetcode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
+- **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://www.facebook.com/iCodeguru/videos/1849407915583410/)
-- **Lecture 15** [Leetcode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
-- **Lecture 16** [Two Pointers Explanation with Its Types & Leetcode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1668266013941042/)
-- **Lecture 17** [Leetcode Problem: 167. Two Sum II - Input Array Is Sorted
+- **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
+- **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1668266013941042/)
+- **Lecture 17** [LeetCode Problem: 167. Two Sum II - Input Array Is Sorted
  & 125. Valid Palindrome](https://www.facebook.com/iCodeguru/videos/1036279937759427/)
-- **Lecture 18** [Leetcode Problem: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
-- **Lecture 19** [Leetcode Problem: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
-- **Lecture 20** [Leetcode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://www.facebook.com/iCodeguru/videos/494738736498761)
+- **Lecture 18** [LeetCode Problem: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
+- **Lecture 19** [LeetCode Problem: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
+- **Lecture 20** [LeetCode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://www.facebook.com/iCodeguru/videos/494738736498761)
 - **Lecture 21** [Intro to Linked List with its Types, Singly Linked List Operations  and How to Create Singly Linked List.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
 - **Lecture 22** [Singly Linked List Operatinos Implementation, Doubly Linked List Operations and How to Create Doubly Linked List](https://www.facebook.com/iCodeguru/videos/1690994685035453/)
-- **Lecture 23** [Leetcode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://www.facebook.com/iCodeguru/videos/506015318842145)
-- **Lecture 24** [Leetcode Problem: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
+- **Lecture 23** [LeetCode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://www.facebook.com/iCodeguru/videos/506015318842145)
+- **Lecture 24** [LeetCode Problem: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
+- **Lecture 25** [Binary Search and its Implementation](https://www.facebook.com/iCodeguru/videos/1170006294226094)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
