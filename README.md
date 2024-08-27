@@ -42,6 +42,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 23** [LeetCode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://www.facebook.com/iCodeguru/videos/506015318842145)
 - **Lecture 24** [LeetCode Problem: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
 - **Lecture 25** [Binary Search and its Implementation](https://www.facebook.com/iCodeguru/videos/1170006294226094)
+- **Lecture 26** [LeetCode Problem: 704. Binary Search](https://www.facebook.com/iCodeguru/videos/3748101312103150)
 
 ## 3b.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations as well as Two Pointers Approach & Binary Search](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
