@@ -1,22 +1,26 @@
 # Volunteer Teaching Recordings 
 
-This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA as well as Tips & Strategies to Tackle IELTS Exam that were presented at ICodeGuru.
+This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA and Tips & Strategies to Tackle IELTS Exam that were presented at ICodeGuru. It also contains Meta Hacker Cup Webinar that was delivered in AU.
 
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
 
-
-## 1. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
-- **Part 1** [Tips & Strategies Explanation using RAG Appraoch](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
+## 1. Meta Hacker Cup 2024 | AU X iCodeGuru
+-  [Webinar Recording](https://www.youtube.com/watch?v=oj2nTXQWzSs)
+## 2. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
+- **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
 - **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
 - **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
 
-## 2. Gen AI Training 
- - **Lecture 1** [How to create Blog Post Retrieval QA](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
+## 3. Gen AI Training 
+ - **Lecture 1** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
  - **Lecture 2** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
  - **Lecture 3**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
 
- 
-## 3a. DSA Video Lectures (Starting Date: 22 July 2024)
+## 4a.DSA Contents
+- **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations as well as Two Pointers Approach & Binary Search](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
+- **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack, Queue, Linked List & Binary Search Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
+  
+## 4b. DSA Video Lectures (22 July 2024 - 30 August 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
@@ -48,10 +52,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 27** [LeetCode Problem: 441. Arranging Coins & 367. Valid Perfect Square](https://www.facebook.com/iCodeguru/videos/524753460051102)
 - **Lecture 28** [LeetCode Problem: 35. Search Insert Position & 374. Guess Number Higher or Lower](https://www.facebook.com/iCodeguru/videos/502132102536487)
 - **Lecture 29-Last Session** [LeetCode Problem:  278. First Bad Version  & Participants Feedback](https://www.facebook.com/iCodeguru/videos/1963319774128805/)
-- 
-## 3b.DSA Contents
-- **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations as well as Two Pointers Approach & Binary Search](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
-- **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack, Queue, Linked List & Binary Search Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
+  
 ## LeetCode Lectures
 - **LC 26.**   [Remove Duplicates from Sorted Array - 28 minutes [0:00-28:00]](https://www.facebook.com/iCodeguru/videos/8605904716089836)
 - **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
