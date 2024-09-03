@@ -12,15 +12,19 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
 
 ## 3. Gen AI Training 
- - **Lecture 1** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
- - **Lecture 2** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
- - **Lecture 3**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
+ - **Lecture 1** [Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
+ - **Lecture 2** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
+ - **Lecture 3** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
+ - **Lecture 4**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
 
-## 4a.DSA Contents
+## 4. Mastering Stack Data Structures Through LeetCode Challenge.
+- [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://www.facebook.com/iCodeguru/videos/1199756158014712)
+
+## 5a.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations as well as Two Pointers Approach & Binary Search](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
 - **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack, Queue, Linked List & Binary Search Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
   
-## 4b. DSA Video Lectures (22 July 2024 - 30 August 2024)
+## 5b. DSA Video Lectures (22 July 2024 - 30 August 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
