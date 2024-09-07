@@ -17,7 +17,7 @@ The objective is to share learned knowledge to enhance their problem solving and
  - **Lecture 3** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
  - **Lecture 4**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
 
-## 4. Mastering Stack Data Structures Through LeetCode Challenge.
+## 4. Mastering Stack Data Structure Through LeetCode Challenge.
 - [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://www.facebook.com/iCodeguru/videos/1199756158014712)
 
 ## 5a.DSA Contents
