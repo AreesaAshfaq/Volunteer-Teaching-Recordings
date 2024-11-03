@@ -36,7 +36,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://www.facebook.com/iCodeguru/videos/1137420924034961/)
 - **Lecture 9** [LeetCode Problems: 706. Design HashMap & 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
 - **Lecture 10** [LeetCode Problems: 705. Design HashSet & 2283. Check if Number Has Equal Digit Count and Digit Value](https://www.facebook.com/iCodeguru/videos/457225170479825)
-- **Lecture 11** [LeetCode Problem: 2390. Removing Stars From a String](https://www.facebook.com/iCodeguru/videos/1864244974059602)
+- **Lecture 11** [Stack with its Operations & Implementation, Remove All Adjacent Duplicates In String](https://www.facebook.com/iCodeguru/videos/1864244974059602)
 - **Lecture 12** [LeetCode Problems: 2390. Removing Stars From a String & 682. Baseball Game](https://www.facebook.com/iCodeguru/videos/476962791928073/)
 - **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
 - **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
