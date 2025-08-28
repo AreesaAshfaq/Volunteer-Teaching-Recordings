@@ -26,7 +26,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack, Queue, Linked List & Binary Search Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
   
 ## 5b. DSA Video Lectures (22 July 2024 - 30 August 2024)
-- **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://www.facebook.com/iCodeguru/videos/1425589568341700/)
+- **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://youtu.be/Kc6DZyEhDYg)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1154653579160390)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://www.facebook.com/iCodeguru/videos/524933900066638/)
 - **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://www.facebook.com/iCodeguru/videos/1960587047715870/)
