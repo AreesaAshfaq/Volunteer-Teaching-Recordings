@@ -29,7 +29,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://youtu.be/Kc6DZyEhDYg)
 - **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://youtu.be/NCfC0hIHI5E)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://youtu.be/rcDgS04Q0T0)
-- **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://www.facebook.com/iCodeguru/videos/1960587047715870/)
+- **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://youtu.be/b94hzL2XzzE)
 - **Lecture 5**  [LeetCode Problems: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://www.facebook.com/iCodeguru/videos/1039587780888401/)
 - **Lecture 6** [Intro to String with its operations and implementation](https://www.facebook.com/iCodeguru/videos/786334563377486/)
 - **Lecture 7** [LeetCode Problems:1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately & 1528. Shuffle String](https://www.facebook.com/iCodeguru/videos/1003047384461168/)
