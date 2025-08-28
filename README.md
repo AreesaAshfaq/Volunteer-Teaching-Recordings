@@ -31,7 +31,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://youtu.be/rcDgS04Q0T0)
 - **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://youtu.be/b94hzL2XzzE)
 - **Lecture 5**  [LeetCode Problems: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://youtu.be/Ue02DCphQxA)
-- **Lecture 6** [Intro to String with its operations and implementation](https://www.facebook.com/iCodeguru/videos/786334563377486/)
+- **Lecture 6** [Intro to String with its operations and implementation](https://youtu.be/F2pJJ9zjXeY)
 - **Lecture 7** [LeetCode Problems:1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately & 1528. Shuffle String](https://www.facebook.com/iCodeguru/videos/1003047384461168/)
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://www.facebook.com/iCodeguru/videos/1137420924034961/)
 - **Lecture 9** [LeetCode Problems: 706. Design HashMap & 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
