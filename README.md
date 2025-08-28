@@ -27,7 +27,7 @@ The objective is to share learned knowledge to enhance their problem solving and
   
 ## 5b. DSA Video Lectures (22 July 2024 - 30 August 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://youtu.be/Kc6DZyEhDYg)
-- **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://youtu.be/p01_AvhIJo8)
+- **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://youtu.be/NCfC0hIHI5E)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://youtu.be/PpzglWYuTno)
 - **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://www.facebook.com/iCodeguru/videos/1960587047715870/)
 - **Lecture 5**  [LeetCode Problems: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://www.facebook.com/iCodeguru/videos/1039587780888401/)
