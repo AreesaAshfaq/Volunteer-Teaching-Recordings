@@ -32,7 +32,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://youtu.be/b94hzL2XzzE)
 - **Lecture 5**  [LeetCode Problems: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://youtu.be/Ue02DCphQxA)
 - **Lecture 6** [Intro to String with its operations and implementation](https://youtu.be/F2pJJ9zjXeY)
-- **Lecture 7** [LeetCode Problems:1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately & 1528. Shuffle String](https://www.facebook.com/iCodeguru/videos/1003047384461168/)
+- **Lecture 7** [LeetCode Problems:1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately & 1528. Shuffle String](https://youtu.be/ysCU3ucfAdQ)
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://www.facebook.com/iCodeguru/videos/1137420924034961/)
 - **Lecture 9** [LeetCode Problems: 706. Design HashMap & 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
 - **Lecture 10** [LeetCode Problems: 705. Design HashSet & 2283. Check if Number Has Equal Digit Count and Digit Value](https://www.facebook.com/iCodeguru/videos/457225170479825)
