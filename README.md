@@ -19,7 +19,7 @@ The objective is to share learned knowledge to enhance their problem solving and
  - **Lecture 5**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
 
 ## 4. Mastering Stack Data Structure Through LeetCode Challenge.
-- [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://www.facebook.com/iCodeguru/videos/1199756158014712)
+- [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://youtu.be/tj-J_hm90eI)
 
 ## 5a.DSA Contents
 - **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations as well as Two Pointers Approach & Binary Search](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
