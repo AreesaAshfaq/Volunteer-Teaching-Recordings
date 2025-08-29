@@ -40,7 +40,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 12** [LeetCode Problems: 2390. Removing Stars From a String & 682. Baseball Game](https://youtu.be/nfHk7KyCFtY)
 - **Lecture 13** [Queue with Operations & Implementation](https://youtu.be/DXaWCTEvnd0)
 - **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
-](https://www.facebook.com/iCodeguru/videos/1849407915583410/)
+](https://youtu.be/9Pu7bC81F9k)
 - **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
 - **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1668266013941042/)
 - **Lecture 17** [LeetCode Problem: 167. Two Sum II - Input Array Is Sorted
