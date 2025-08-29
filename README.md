@@ -34,7 +34,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 6** [Intro to String with its operations and implementation](https://youtu.be/F2pJJ9zjXeY)
 - **Lecture 7** [LeetCode Problems:1662. Check If Two String Arrays are Equivalent, 1768. Merge Strings Alternately & 1528. Shuffle String](https://youtu.be/ysCU3ucfAdQ)
 - **Lecture 8** [Hashmap with its Operations and Implementation](https://youtu.be/Qk_EGojWlGY)
-- **Lecture 9** [LeetCode Problems: 706. Design HashMap & 677. Map Sum Pairs](https://www.facebook.com/iCodeguru/videos/1203448454132205/)
+- **Lecture 9** [LeetCode Problems: 706. Design HashMap & 677. Map Sum Pairs](https://youtu.be/7PtdYOjaZt8)
 - **Lecture 10** [LeetCode Problems: 705. Design HashSet & 2283. Check if Number Has Equal Digit Count and Digit Value](https://www.facebook.com/iCodeguru/videos/457225170479825)
 - **Lecture 11** [Stack with its Operations & Implementation, Remove All Adjacent Duplicates In String](https://www.facebook.com/iCodeguru/videos/1864244974059602)
 - **Lecture 12** [LeetCode Problems: 2390. Removing Stars From a String & 682. Baseball Game](https://www.facebook.com/iCodeguru/videos/476962791928073/)
