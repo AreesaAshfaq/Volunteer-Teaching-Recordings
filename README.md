@@ -42,7 +42,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://youtu.be/9Pu7bC81F9k)
 - **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://youtu.be/Y1eUj01Z5uU)
-- **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1668266013941042/)
+- **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://youtu.be/CsYDZ0scHGg)
 - **Lecture 17** [LeetCode Problem: 167. Two Sum II - Input Array Is Sorted
  & 125. Valid Palindrome](https://www.facebook.com/iCodeguru/videos/1036279937759427/)
 - **Lecture 18** [LeetCode Problem: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
