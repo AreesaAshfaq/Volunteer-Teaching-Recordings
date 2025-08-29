@@ -41,7 +41,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 13** [Queue with Operations & Implementation](https://youtu.be/DXaWCTEvnd0)
 - **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://youtu.be/9Pu7bC81F9k)
-- **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
+- **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://youtu.be/Y1eUj01Z5uU)
 - **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://www.facebook.com/iCodeguru/videos/1668266013941042/)
 - **Lecture 17** [LeetCode Problem: 167. Two Sum II - Input Array Is Sorted
  & 125. Valid Palindrome](https://www.facebook.com/iCodeguru/videos/1036279937759427/)
