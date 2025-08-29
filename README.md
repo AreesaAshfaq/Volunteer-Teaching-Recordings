@@ -38,7 +38,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 10** [LeetCode Problems: 705. Design HashSet & 2283. Check if Number Has Equal Digit Count and Digit Value](https://youtu.be/44FHUv_gxOE)
 - **Lecture 11** [Stack with its Operations and Implementation & 1047. Remove All Adjacent Duplicates In String](https://youtu.be/W0cpj6B54ao)
 - **Lecture 12** [LeetCode Problems: 2390. Removing Stars From a String & 682. Baseball Game](https://youtu.be/nfHk7KyCFtY)
-- **Lecture 13** [Queue with Operations & Implementation](https://www.facebook.com/iCodeguru/videos/834693448629211/)
+- **Lecture 13** [Queue with Operations & Implementation](https://youtu.be/DXaWCTEvnd0)
 - **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://www.facebook.com/iCodeguru/videos/1849407915583410/)
 - **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://www.facebook.com/iCodeguru/videos/1072841957534430)
