@@ -45,7 +45,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://youtu.be/CsYDZ0scHGg)
 - **Lecture 17** [LeetCode Problem: 167. Two Sum II - Input Array Is Sorted
  & 125. Valid Palindrome](https://youtu.be/KnNeyQmhOBk)
-- **Lecture 18** [LeetCode Problem: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
+- **Lecture 18** [LeetCode Problem: 13. Roman to Integer](https://youtu.be/7qf-Zz72aEI)
 - **Lecture 19** [LeetCode Problem: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
 - **Lecture 20** [LeetCode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://www.facebook.com/iCodeguru/videos/494738736498761)
 - **Lecture 21** [Intro to Linked List with its Types, Singly Linked List Operations  and How to Create Singly Linked List.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
