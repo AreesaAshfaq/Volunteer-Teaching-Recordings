@@ -27,7 +27,7 @@ The objective is to share learned knowledge to enhance their problem solving and
   
 ## 5b. DSA Video Lectures (22 July 2024 - 30 August 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://youtu.be/Kc6DZyEhDYg)
-- **Lecture 2**  [Time & Space Complexity, LeetCode Problem: 1. Two Sum](https://youtu.be/NCfC0hIHI5E)
+- **Lecture 2**  [Time and Space Complexity & LeetCode Problem: 1. Two Sum](https://youtu.be/NCfC0hIHI5E)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://youtu.be/rcDgS04Q0T0)
 - **Lecture 4**  [LeetCode Problems: 1929. Concatenation of Array & 349. Intersection of Two Arrays](https://youtu.be/b94hzL2XzzE)
 - **Lecture 5**  [LeetCode Problems: 2798. Number of Employees Who Met the Target & 3024. Type of Triangle](https://youtu.be/Ue02DCphQxA)
@@ -38,7 +38,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 10** [LeetCode Problems: 705. Design HashSet & 2283. Check if Number Has Equal Digit Count and Digit Value](https://youtu.be/44FHUv_gxOE)
 - **Lecture 11** [Stack with its Operations and Implementation & 1047. Remove All Adjacent Duplicates In String](https://youtu.be/W0cpj6B54ao)
 - **Lecture 12** [LeetCode Problems: 2390. Removing Stars From a String & 682. Baseball Game](https://youtu.be/nfHk7KyCFtY)
-- **Lecture 13** [Queue with Operations & Implementation](https://youtu.be/DXaWCTEvnd0)
+- **Lecture 13** [Queue with Operations and Implementation](https://youtu.be/DXaWCTEvnd0)
 - **Lecture 14** [LeetCode Problems: Discussion of 232. Implement Queue using Stacks & 496. Next Greater Element I
 ](https://youtu.be/9Pu7bC81F9k)
 - **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://youtu.be/Y1eUj01Z5uU)
@@ -50,7 +50,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 20** [LeetCode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://youtu.be/rIsLqc2kdxA)
 - **Lecture 21** [Linked List Intro & Types, Singly Linked List Operations  and Linked List Creation.](https://youtu.be/yNF0sT-Dyy8)
 - **Lecture 22** [Singly & Doubly LinkedList: Operations & Implementation](https://youtu.be/0hMxsaJETAA)
-- **Lecture 23** [LeetCode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://www.facebook.com/iCodeguru/videos/506015318842145)
+- **Lecture 23** [LeetCode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://youtu.be/aY9FMyR3DP4)
 - **Lecture 24** [LeetCode Problem: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
 - **Lecture 25** [Binary Search and its Implementation](https://www.facebook.com/iCodeguru/videos/1170006294226094)
 - **Lecture 26** [LeetCode Problem: 704. Binary Search](https://www.facebook.com/iCodeguru/videos/3748101312103150)
