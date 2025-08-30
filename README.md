@@ -52,7 +52,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 22** [Singly & Doubly LinkedList: Operations & Implementation](https://youtu.be/0hMxsaJETAA)
 - **Lecture 23** [LeetCode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://youtu.be/aY9FMyR3DP4)
 - **Lecture 24** [LeetCode Problem: 206. Reverse Linked List](https://youtu.be/7F9e6U4T0fs)
-- **Lecture 25** [Binary Search and its Implementation](https://www.facebook.com/iCodeguru/videos/1170006294226094)
+- **Lecture 25** [Binary Search and its Implementation](https://youtu.be/38nZsGeDirU)
 - **Lecture 26** [LeetCode Problem: 704. Binary Search](https://www.facebook.com/iCodeguru/videos/3748101312103150)
 - **Lecture 27** [LeetCode Problem: 441. Arranging Coins & 367. Valid Perfect Square](https://www.facebook.com/iCodeguru/videos/524753460051102)
 - **Lecture 28** [LeetCode Problem: 35. Search Insert Position & 374. Guess Number Higher or Lower](https://www.facebook.com/iCodeguru/videos/502132102536487)
