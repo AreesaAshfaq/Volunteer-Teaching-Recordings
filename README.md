@@ -48,7 +48,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 18** [LeetCode Problem: 13. Roman to Integer](https://youtu.be/7qf-Zz72aEI)
 - **Lecture 19** [LeetCode Problem: 344. Reverse String](https://youtu.be/Q58srx7sR0E)
 - **Lecture 20** [LeetCode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://youtu.be/rIsLqc2kdxA)
-- **Lecture 21** [Intro to Linked List with its Types, Singly Linked List Operations  and How to Create Singly Linked List.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
+- **Lecture 21** [Linked List Intro & Types, Singly Linked List Operations  and Linked List Creation.](https://www.facebook.com/iCodeguru/videos/1044197884072526)
 - **Lecture 22** [Singly Linked List Operatinos Implementation, Doubly Linked List Operations and How to Create Doubly Linked List](https://www.facebook.com/iCodeguru/videos/1690994685035453/)
 - **Lecture 23** [LeetCode Problems: 876. Middle of the Linked List & 141. Linked List Cycle](https://www.facebook.com/iCodeguru/videos/506015318842145)
 - **Lecture 24** [LeetCode Problem: 206. Reverse Linked List](https://www.facebook.com/iCodeguru/videos/3767072970234573)
