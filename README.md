@@ -44,7 +44,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 15** [LeetCode Problems: 232. Implement Queue using Stacks & 225. Implement Stack using Queues](https://youtu.be/Y1eUj01Z5uU)
 - **Lecture 16** [Two Pointers Explanation with Its Types & LeetCode Problem: 1. Two Sum](https://youtu.be/CsYDZ0scHGg)
 - **Lecture 17** [LeetCode Problem: 167. Two Sum II - Input Array Is Sorted
- & 125. Valid Palindrome](https://www.facebook.com/iCodeguru/videos/1036279937759427/)
+ & 125. Valid Palindrome](https://youtu.be/KnNeyQmhOBk)
 - **Lecture 18** [LeetCode Problem: 13. Roman to Integer](https://www.facebook.com/iCodeguru/videos/807064638260366/)
 - **Lecture 19** [LeetCode Problem: 344. Reverse String](https://www.facebook.com/iCodeguru/videos/900520495242232/)
 - **Lecture 20** [LeetCode Problems: 771. Jewels and Stones & 20. Valid Parentheses](https://www.facebook.com/iCodeguru/videos/494738736498761)
