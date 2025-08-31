@@ -56,7 +56,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **Lecture 26** [LeetCode Problem: 704. Binary Search](https://youtu.be/O2pBEq-EhME)
 - **Lecture 27** [LeetCode Problem: 441. Arranging Coins & 367. Valid Perfect Square](https://youtu.be/F_BTv_urF_c)
 - **Lecture 28** [LeetCode Problem: 35. Search Insert Position & 374. Guess Number Higher or Lower](https://youtu.be/Jsq3krauJ0w)
-- **Lecture 29-Last Session** [LeetCode Problem:  278. First Bad Version  & Participants Feedback](https://www.facebook.com/iCodeguru/videos/1963319774128805)
+- **Lecture 29-Last Session** [LeetCode Problem:  278. First Bad Version  & Participants Feedback](https://youtu.be/dSVg4DDHaSE)
   
 ## LeetCode Lectures
 - **LC 26.**   [Remove Duplicates from Sorted Array - 28 minutes [0:00-28:00]](https://www.facebook.com/iCodeguru/videos/8605904716089836)
