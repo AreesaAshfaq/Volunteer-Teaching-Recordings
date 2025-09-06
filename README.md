@@ -4,7 +4,7 @@ This is repository that contains links of video recording related to GEN AI Trai
 
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
 
-## 1. Meta Hacker Cup 2024 | AU X iCodeGuru
+## 1. Meta Hacker Cup 2024 | AU X iCodeGuru (Presented Date: 31 August 2024)
 -  [Watch Recording for Insights and Strategies!](https://www.youtube.com/watch?v=oj2nTXQWzSs)
 ## 2. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
 - **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
