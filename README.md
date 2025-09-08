@@ -4,19 +4,20 @@ This is repository that contains links of video recording related to GEN AI Trai
 
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
 
-## 1. Meta Hacker Cup 2024 | AU X iCodeGuru (Presented Date: 31 August 2024)
--  [Watch Recording for Insights and Strategies!](https://www.youtube.com/watch?v=oj2nTXQWzSs)
-## 2. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
-- **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
-- **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
-- **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
-
-## 3. Gen AI Training 
+## 1. Gen AI Training 
  - **Lecture 1** [ Making Your Generative AI Application Real: From identifying your your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
  - **Lecture 2** [Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
  - **Lecture 3** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
  - **Lecture 4** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
  - **Lecture 5**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
+   
+## 2. Meta Hacker Cup 2024 | AU X iCodeGuru (Presented Date: 31 August 2024)
+-  [Watch Recording for Insights and Strategies!](https://www.youtube.com/watch?v=oj2nTXQWzSs)
+
+## 3. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
+- **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
+- **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
+- **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
 
 ## 4. Mastering Stack Data Structure Through LeetCode Challenge. (Presented Date: 02 Sep 2024)
 - [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://youtu.be/tj-J_hm90eI)
