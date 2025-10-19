@@ -62,10 +62,10 @@ The objective is to share learned knowledge to enhance their problem solving and
 ## LeetCode Lectures
 - **LC 3.**    [Longest Substring Without Repeating Characters - 19 minutes [0:00-19:50]](https://youtu.be/7jAbYbIw4Ac)
 - **LC 155.**  [Min Stack - 17 minutes [46:25-1:03:50]](https://youtu.be/OSUa5DFJJxA)
-- **LC 26.**   [Remove Duplicates from Sorted Array - 28 minutes [0:00-28:00]](https://www.facebook.com/iCodeguru/videos/8605904716089836)
-- **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
 - **LC 394a.** [Decode String Problem Explanation - 10 minutes[45:00-55:57]](https://www.facebook.com/iCodeguru/videos/1050338199941513/)
 - **LC 394b.** [Decode String Solution with Explanation - 26 minutes[0:00-26:00]](https://www.facebook.com/iCodeguru/videos/951744666633494/)
+- **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
+- **LC 26.**   [Remove Duplicates from Sorted Array - 28 minutes [0:00-28:00]](https://www.facebook.com/iCodeguru/videos/8605904716089836)
 - **LC 844.**  [Backspace String Compare - 26 minutes[24:05-50:00]](https://youtu.be/xtZv2NNHcHo)
 - **LC 142.**  [Linked List Cycle II - 13 minutes[30:45-43:00]](https://youtu.be/JHVsLHMe7WE)
 - **LC 206.**  [Reverse Linked List - 15 minutes[0:00-15:35]](https://youtu.be/oW1qdOavpRw)
