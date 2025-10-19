@@ -66,7 +66,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **LC 394b.** [Decode String Solution with Explanation - 26 minutes[0:00-26:00]](https://www.facebook.com/iCodeguru/videos/951744666633494/)
 - **LC 844.**  [Backspace String Compare - 26 minutes[24:05-50:00]](https://www.facebook.com/iCodeguru/videos/656666495972669/)
 - **LC 142.**  [Linked List Cycle II - 13 minutes[30:45-43:00]](https://www.facebook.com/iCodeguru/videos/8130158700392661)
-- **LC 206.**  [Reverse Linked List - 15 minutes[0:00-15:35]](https://www.facebook.com/iCodeguru/videos/682404519920780/)
+- **LC 206.**  [Reverse Linked List - 15 minutes[0:00-15:35]](https://youtu.be/oW1qdOavpRw)
 - **LC 349.**  [Intersection of Two Arrays Problem & Solution with Explanation - 33 minutes[0:00-33:40]](https://youtu.be/xHaT7DCIRTY)
 
 
