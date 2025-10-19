@@ -64,7 +64,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 - **LC 1352.** [Product of the Last K Numbers - 56 minutes [0:00-56:41]](https://www.facebook.com/iCodeguru/videos/2664163053763655/)
 - **LC 394a.** [Decode String Problem Explanation - 10 minutes[45:00-55:57]](https://www.facebook.com/iCodeguru/videos/1050338199941513/)
 - **LC 394b.** [Decode String Solution with Explanation - 26 minutes[0:00-26:00]](https://www.facebook.com/iCodeguru/videos/951744666633494/)
-- **LC 844.**  [Backspace String Compare - 26 minutes[24:05-50:00]](https://www.facebook.com/iCodeguru/videos/656666495972669/)
+- **LC 844.**  [Backspace String Compare - 26 minutes[24:05-50:00]](https://youtu.be/xtZv2NNHcHo)
 - **LC 142.**  [Linked List Cycle II - 13 minutes[30:45-43:00]](https://youtu.be/JHVsLHMe7WE)
 - **LC 206.**  [Reverse Linked List - 15 minutes[0:00-15:35]](https://youtu.be/oW1qdOavpRw)
 - **LC 349.**  [Intersection of Two Arrays Problem & Solution with Explanation - 33 minutes[0:00-33:40]](https://youtu.be/xHaT7DCIRTY)
