@@ -7,7 +7,7 @@ The objective is to share learned knowledge to enhance their problem solving and
 ## 1. Gen AI Training 
  - **Lecture 1** [Making Your Generative AI Application Real: From identifying your your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
  - **Lecture 2** [Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
- - **Lecture 3** [How to Create Blog Post Retrieval QA Application using RAG Approach](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
+ - **Lecture 3** [How to Create Blog Post Retrieval QA Application using RAG Approach](https://youtu.be/kPbfSbb2k78)
  - **Lecture 4** [How to Create Multi Language Translator](https://youtu.be/jLeP4yJCS3M)
  - **Lecture 5**  [Text/Code Generation Techniques and Implementation](https://youtu.be/yUQFbU4zdME)
  
