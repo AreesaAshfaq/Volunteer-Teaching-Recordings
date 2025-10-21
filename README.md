@@ -5,7 +5,7 @@ This is repository that contains links of video recording related to GEN AI Trai
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
 
 ## 1. Gen AI Training 
- - **Lecture 1** [Making Your Generative AI Application Real: From identifying your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
+ - **Lecture 1** [Making Your Generative AI Application Real: From identifying your needs to implementation](https://youtu.be/gq68W6G21sg)
  - **Lecture 2** [Gen AI Importance](https://youtu.be/zHGX7F2YhzM)
  - **Lecture 3** [How to Create Blog Post Retrieval QA Application using RAG Approach](https://youtu.be/kPbfSbb2k78)
  - **Lecture 4** [How to Create Multi Language Translator](https://youtu.be/jLeP4yJCS3M)
