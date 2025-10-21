@@ -6,16 +6,18 @@ The objective is to share learned knowledge to enhance their problem solving and
 
 ## 1. Gen AI Training 
  - **Lecture 1** [ Making Your Generative AI Application Real: From identifying your your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
-   <!-- My Gen AI Delivered Lectures Links on Aspire Pakistan YouTube Channel (hidden links) 
-    - Making Your Generative AI Application Real: From identifying your your needs to implementation: https://www.youtube.com/watch?v=Y-1nhuZtoa4
-    -[Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
-    -
-    -
-   -->
  - **Lecture 2** [Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
  - **Lecture 3** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
  - **Lecture 4** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
  - **Lecture 5**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
+ 
+ <!-- My Gen AI Delivered Lectures Links on Aspire Pakistan YouTube Channel (hidden links) 
+    - **Lecture 1** [ Making Your Generative AI Application Real: From identifying your your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
+    - **Lecture 2** [Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
+    - **Lecture 3** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
+    - **Lecture 4** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
+    - **Lecture 5**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
+  -->
    
 ## 2. Meta Hacker Cup 2024 | AU X iCodeGuru (Presented Date: 31 August 2024)
 -  [Watch Recording for Insights and Strategies!](https://www.youtube.com/watch?v=oj2nTXQWzSs)
