@@ -1,6 +1,6 @@
 # Volunteer Teaching Recordings 
 
-This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA and Tips & Strategies to Tackle IELTS Exam that were presented at ICodeGuru. It also contains Meta Hacker Cup Webinar that was delivered in AU.
+This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA and Tips & Strategies to Tackle IELTS Exam that were presented at iCodeGuru. It also contains Meta Hacker Cup Webinar that was delivered in AU.
 
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
 
