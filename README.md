@@ -6,6 +6,9 @@ The objective is to share learned knowledge to enhance their problem solving and
 
 ## 1. Gen AI Training 
  - **Lecture 1** [ Making Your Generative AI Application Real: From identifying your your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
+   <!-- My Gen AI Delivered Lectures on Aspire Pakistan YouTube Channel (hidden links) -->
+   Making Your Generative AI Application Real: From identifying your your needs to implementation](https://www.youtube.com/watch?v=Y-1nhuZtoa4)
+   Aspire Pakist: https://www.youtube.com/c/AspirePakistan
  - **Lecture 2** [Gen AI Importance](https://www.youtube.com/watch?v=lyH5iYL_u8s)
  - **Lecture 3** [How to create Blog Post Retrieval QA using RAG Appraoch](https://www.youtube.com/watch?v=JHShrGfyZHU&t=20s)
  - **Lecture 4** [How to create multi language translator](https://www.youtube.com/watch?v=34MitL2NKaA)
